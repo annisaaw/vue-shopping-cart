@@ -1,0 +1,56 @@
+{
+	"users" : [
+		{
+			"id" : 1,
+			"username" : "admin",
+			"password" : "admin"
+		}
+	],
+	"categories" : [
+		"Media",
+		"Buku",
+		"Cenderamata"
+	],
+	"products" : [
+		{
+			"id" : 1,
+			"name" : "Kompas Digital Premium Ekstra",
+			"image" : "https://gerai-kompas-id.azureedge.net/wp-content/uploads/2020/01/Image_01-2-324x432.png",
+			"price" : 149000,
+			"description" : "Memperkenalkan Kompas Digital Premium Ekstra; satu langganan akses premium KDP untuk dinikmati bersama-sama*!",
+			"category" : "Media"
+		},
+		{
+			"id" : 2,
+			"name" : "Koran Kompas Edisi 18 November 2019",
+			"image" : "https://gerai-kompas-id.azureedge.net/wp-content/uploads/2019/11/IG-Story-Card-promo-merch-bomar-2019-03-324x432.jpg",
+			"price" : 50000,
+			"description" : "Memperkenalkan Kompas Digital Premium Ekstra; satu langganan akses premium KDP untuk dinikmati bersama-sama*!",
+			"category" : "Media"
+		},
+		{
+			"id" : 3,
+			"name" : "Kompas Digital Premium & Koran + Ongkos Kirim",
+			"image" : "https://gerai-kompas-id.azureedge.net/wp-content/uploads/2018/11/slider-promo-langganan-494X600-1-324x432.jpg",
+			"price" : 108000,
+			"description" : "Memperkenalkan Kompas Digital Premium Ekstra; satu langganan akses premium KDP untuk dinikmati bersama-sama*!",
+			"category" : "Media"
+		},
+		{
+			"id" : 4,
+			"name" : "Manage Your Cash Flow, Manage Your Life",
+			"image" : "https://gerai-kompas-id.azureedge.net/wp-content/uploads/2019/09/cash-flow-324x432.png",
+			"price" : 79000,
+			"description" : "Memperkenalkan Kompas Digital Premium Ekstra; satu langganan akses premium KDP untuk dinikmati bersama-sama*!",
+			"category" : "Buku"
+		},
+		{
+			"id" : 5,
+			"name" : "Canderageni",
+			"image" : "https://gerai-kompas-id.azureedge.net/wp-content/uploads/2018/11/GG_1893-B-1-324x432.jpg",
+			"price" : 487000,
+			"description" : "Memperkenalkan Kompas Digital Premium Ekstra; satu langganan akses premium KDP untuk dinikmati bersama-sama*!",
+			"category" : "Cenderamata"
+		}
+	]
+}
