@@ -15,11 +15,15 @@ npm run serve
 npm run build
 ```
 
-# additional
+### additional
+```
 npm install -g json-server
+```
 
-#run this for the axios data
+### #run this for the axios data
+```
 json-server --watch data.json
+```
 
 ### Lints and fixes files
 ```
