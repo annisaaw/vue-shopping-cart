@@ -15,6 +15,12 @@ npm run serve
 npm run build
 ```
 
+# additional
+npm install -g json-server
+
+#run this for the axios data
+json-server --watch data.json
+
 ### Lints and fixes files
 ```
 npm run lint
@@ -22,3 +28,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Lints and fixes files
+```
+npm run lint
+```
